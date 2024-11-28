@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">tunein</string>
+    <string name="filter_none">No filter</string>
+    <string name="filter_tag">Tag</string>
+    <string name="filter_search">Search</string>
+    <string name="filter_reliability">Reliability</string>
+    <string name="filter_popularity">Popularity</string>
+    <string name="generic_ok">OK</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="error">Error</string>
+    <string name="loading">loading</string>
+    <string name="previous">prev</string>
+    <string name="next">next</string>
+</resources>
